@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 🎓 Pursuing Information Technology at IIEST Shibpur<br><br>🤖 Passionate about Machine Learning<br><br>💻 Building modern UIs as a Frontend Developer<br><br>📚 Currently learning Data Structures & Algorithms (DSA)
 
@@ -15,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diyaaghosh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diyaaghosh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=diyaaghosh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
